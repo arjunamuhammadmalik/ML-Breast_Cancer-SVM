@@ -1,2 +1,13 @@
 # ML-Breast_Cancer-SVM
-Proyek ini menggunakan SVM untuk mengklasifikasikan tumor kanker payudara dengan Breast Cancer Wisconsin Dataset dari scikit-learn. Mencakup pra-pemrosesan data, pelatihan model, evaluasi akurasi (98.25%), presisi (100%), recall (95.35%), serta analisis confusion matrix.🚀
+
+# Background Problem
+Kanker payudara adalah salah satu penyakit yang paling umum dan mematikan di dunia. Deteksi dini sangat penting untuk meningkatkan peluang kesembuhan. Dalam proyek ini, kami menggunakan algoritma Support Vector Machine (SVM) untuk menganalisis dan mengklasifikasikan tumor kanker payudara berdasarkan dataset Breast Cancer Wisconsin dari scikit-learn.
+# Masalah
+Kanker payudara sulit didiagnosis secara akurat hanya berdasarkan gejala klinis.
+Kesalahan klasifikasi dapat menyebabkan keterlambatan dalam penanganan pasien.
+Diperlukan model yang andal dan efisien untuk membantu mendeteksi kanker sejak dini.
+# Tujuan
+Mengembangkan model machine learning berbasis SVM untuk mengklasifikasikan tumor sebagai jinak (benign) atau ganas (malignant).
+Mengevaluasi performa model menggunakan akurasi, precision, recall, dan confusion matrix.
+Menganalisis hasil dan memberikan rekomendasi untuk peningkatan model.
+
